@@ -1,0 +1,138 @@
+editor,original,published,file,bytes,pdf_header,revisions,old_amount_in_revision_1,old_amount_in_text_layer,producer,producer_kept,creation_date_kept,mod_date_kept,editor_marks,fonts_added,sha256
+acrobat-online,fpdf2,yes,edited/acrobat-online/fpdf2.pdf,52497,%PDF-1.3,2,yes,no,,yes,yes,no,/TouchUp_TextEdit,ArialMT,af71837b1a07f4de8a896946b65233bac0b8e6452af0a8edc6f27de5af92810e
+acrobat-online,invoice,yes,edited/acrobat-online/invoice.pdf,45302,%PDF-1.3,2,yes,no,macOS Версія 15.1 (збірка 24B2082) Quartz PDFContext,yes,yes,no,,HelveticaNeueLTPro-Bd HelveticaNeueLTPro-Roman,1e52fac74d9f834082dcfeea89c0ff6d8d6c80c8e252dbfbc2283d2704dedf45
+acrobat-online,mpdf,yes,edited/acrobat-online/mpdf.pdf,194918,%PDF-1.4,2,yes,no,mPDF 8.3.1,yes,yes,no,/TouchUp_TextEdit,,b950c34b03f7374750f35621fa8c17606b1615a19f4d5f91417481548cc249e7
+acrobat-online,real-apple,no,,155701,%PDF-1.7,2,yes,no,,yes,yes,no,/TouchUp_TextEdit,,
+acrobat-online,real-stripe,no,,260492,%PDF-1.4,2,yes,no,,yes,yes,no,/TouchUp_TextEdit,,
+acrobat-online,receipt,yes,edited/acrobat-online/receipt.pdf,97658,%PDF-1.4,2,yes,no,Skia/PDF m157,yes,yes,no,,ArialMT,c8fae45531853205ee7185db77a1e1fb1caeda8107f52364564a6e503467394a
+acrobat-online,statement,yes,edited/acrobat-online/statement.pdf,166996,%PDF-1.3,2,yes,no,NCU eStatements 4.2,yes,yes,no,/TouchUp_TextEdit,,81e5849d97bf8786e5956ff8003f8dc213c6c061ae91b20b74820cba4da15445
+acrobat-online,tcpdf,yes,edited/acrobat-online/tcpdf.pdf,157772,%PDF-1.7,2,yes,no,TCPDF 6.11.4 (http://www.tcpdf.org),yes,yes,no,,,06db3225621a4286fdfcc52c4aabe3c5f596e347753f9473ed768c7f13c99145
+acrobat-online,weasy,yes,edited/acrobat-online/weasy.pdf,90007,%PDF-1.7,2,yes,no,WeasyPrint 70.0,yes,yes,no,/TouchUp_TextEdit,ArialMT,7be98075ae698557dc84f2d21e41b8c00e7275258f287db8ac8faaf565501e4a
+canva,fpdf2,yes,edited/canva/fpdf2.pdf,38542,%PDF-1.7,1,no,no,Canva (NPDF),no,no,no,,HelveticaWorld-Bold HelveticaWorld-Regular,a537681da0de20a8b8d51093263d4cd59ecb88cf6d02d273966ce49ce7673fe8
+canva,invoice,yes,edited/canva/invoice.pdf,61429,%PDF-1.4,1,no,no,Canva,no,no,no,,IBMPlexSans IBMPlexSans-Bold NotoSans-Regular,72a9103c3aaf3558a70bd71683a7e609414dccb2977d3a84bb9f231e3bfba75a
+canva,mpdf,yes,edited/canva/mpdf.pdf,36348,%PDF-1.7,1,no,no,Canva (NPDF),no,no,no,,,ccb8d557c601479d245afc75c5ab472889b916dfb0685577194750c73a9fbd18
+canva,real-apple,no,,52497,%PDF-1.7,1,no,no,,no,no,no,,,
+canva,real-stripe,no,,64781,%PDF-1.4,1,no,no,,no,no,no,,,
+canva,receipt,yes,edited/canva/receipt.pdf,36436,%PDF-1.7,1,no,no,Canva (NPDF),no,no,no,,HelveticaWorld-Bold HelveticaWorld-Regular,208cdb690abe950635b802bbdcc241d040e543bb0e6512809372a90d9585c7f9
+canva,statement,yes,edited/canva/statement.pdf,56896,%PDF-1.7,1,no,no,Canva (NPDF),no,no,no,,,e3e8f4099b76df6429d1231567b8788916b82fd1a1b000a66dc6d73d1978e227
+canva,tcpdf,yes,edited/canva/tcpdf.pdf,53834,%PDF-1.7,1,no,no,Canva (NPDF),no,no,no,,HelveticaWorld-Regular,fb7ffa28b431eeb630f65e96acdd8186e877ca8af12bd7b1d785d5428a57ea6e
+canva,weasy,yes,edited/canva/weasy.pdf,33881,%PDF-1.7,1,no,no,Canva (NPDF),no,no,no,,HelveticaWorld-Bold HelveticaWorld-Regular,4004f3f41a0e5e958b6eefba7eb1baf8cbff9612d7e922dbcc9a3dffc266a42a
+docfly,fpdf2,yes,edited/docfly/fpdf2.pdf,3100,%PDF-1.5,1,no,yes,DocFly,no,yes,no,,,d20bd72c643a3955c2368051ed62d8db460fe8bc68981c151c9eedb7d61fdfd0
+docfly,mpdf,yes,edited/docfly/mpdf.pdf,43053,%PDF-1.5,1,no,yes,DocFly,no,no,no,,Helvetica-Bold,b9693ebc250925b79ee0290666756c3aed417b5e5efdb59935c717d99d608af7
+docfly,receipt,yes,edited/docfly/receipt.pdf,38020,%PDF-1.5,1,no,yes,DocFly,no,no,no,,,96e7176d85d861feb94f0e64ccc219c2d912ab6716ff914ef20c1299c73d747b
+docfly,statement,yes,edited/docfly/statement.pdf,63122,%PDF-1.5,1,no,yes,DocFly,no,yes,no,,,4da3c36ace5ddd319edb45e1f67f0bf9d9f84aa034e1a5f9157ba29fbfd7464a
+docfly,tcpdf,yes,edited/docfly/tcpdf.pdf,98770,%PDF-1.7,1,no,yes,DocFly,no,no,no,,Helvetica-Bold,9e027c1433edd741b58f47cecfaa07a296d94f47f92e45495f6b7b4543c961bf
+docfly,weasy,yes,edited/docfly/weasy.pdf,46503,%PDF-1.7,1,no,yes,DocFly,no,no,no,,,273ca24ada6dff87bd95e258863b75cd38726883a40fb884944a0cd6c7151907
+dochub,fpdf2,yes,edited/dochub/fpdf2.pdf,8535,%PDF-1.7,1,no,no,DocHub,no,no,no,,Roboto,d24c812b47dba4593a69f2cfeb308132388068a920115848d36ff0854989bbac
+dochub,invoice,yes,edited/dochub/invoice.pdf,23300,%PDF-1.7,1,no,no,DocHub,no,no,no,,Helvetica Helvetica-Bold,165231814ae92f6cb277d673fc227012d2c687ba5f55b9d05cd2a0bc4fb519ea
+dochub,mpdf,yes,edited/dochub/mpdf.pdf,46058,%PDF-1.7,1,no,no,DocHub,no,no,no,,"NotoSans NotoSans,Bold",2add6be5657bb8fe7a453ed775e2da1d684ac0c99de7d063a98c62be191e0e21
+dochub,real-apple,no,,148080,%PDF-1.7,1,no,no,,no,no,no,,,
+dochub,tcpdf,yes,edited/dochub/tcpdf.pdf,99227,%PDF-1.7,1,no,no,DocHub,no,no,no,,"NotoSans,Bold",fbf785b944a10861f9ae15e7c25f69461ac78c38f2458fa11e1bf62b9e708d26
+dochub,weasy,yes,edited/dochub/weasy.pdf,46241,%PDF-1.7,1,no,no,DocHub,no,no,no,,,73ba829e54c7c9d12a3afc780b2ef3f0f365cd115beb832b4bd042d5ad1d64d5
+hipdf,fpdf2,yes,edited/hipdf/fpdf2.pdf,4239,%PDF-1.3,2,yes,no,,yes,yes,yes,,,b2dee636dacf4e270610e4435dbb2c8d29b6bd9041ff45726f5c3914b854f71b
+ilovepdf,fpdf2,yes,edited/ilovepdf/fpdf2.pdf,4891,%PDF-1.7,1,no,no,,yes,yes,yes,/IceniCID,,e6da6e8bb6ae30f4b5dd8d612d38fcd7f2e96e2f2507db855b94088b7469f589
+ilovepdf,invoice,yes,edited/ilovepdf/invoice.pdf,27751,%PDF-1.7,1,no,no,macOS Версія 15.1 (збірка 24B2082) Quartz PDFContext,yes,yes,yes,/IceniCID,,8362261d664cd7813c842bffec9ac891c94683fa59a7e83e3865eb978b3b66d8
+ilovepdf,mpdf,yes,edited/ilovepdf/mpdf.pdf,48274,%PDF-1.7,1,no,no,mPDF 8.3.1,yes,yes,yes,/IceniCID,,b64225225a92202d82a02a62523ad4c25856128224b921947c1a779ba746b09d
+ilovepdf,real-apple,no,,150297,%PDF-1.7,1,no,no,,yes,yes,yes,/IceniCID,,
+ilovepdf,real-stripe,no,,32711,%PDF-1.7,1,no,no,,yes,yes,yes,/IceniCID,,
+ilovepdf,receipt,yes,edited/ilovepdf/receipt.pdf,51526,%PDF-1.7,1,no,no,Skia/PDF m157,yes,yes,yes,/IceniCID,Arimo Bold,f6810f78d2205121e5062225eff1e58723ac40e741af413a7e79ad4b28ea7c79
+ilovepdf,statement,yes,edited/ilovepdf/statement.pdf,67407,%PDF-1.7,1,no,no,NCU eStatements 4.2,yes,yes,yes,/IceniCID,,cf93033ad4442cc3974e6d49fbf771bfa88e7ab248198eb9d84695983fe35dfa
+ilovepdf,tcpdf,yes,edited/ilovepdf/tcpdf.pdf,105775,%PDF-1.7,1,no,no,TCPDF 6.11.4 (http://www.tcpdf.org),yes,yes,yes,/IceniCID,,dcdf809ec8ca368ae45f81d03d9c146101783fa0c806daccf08e98d4c055d2b6
+ilovepdf,weasy,yes,edited/ilovepdf/weasy.pdf,47595,%PDF-1.7,1,no,no,WeasyPrint 70.0,yes,yes,yes,/IceniCID,Arimo Bold,f798770cb1fd03865cf303a474625db9f74f9f0c8ed1c74309be3d5db05dac69
+lightpdf,fpdf2,yes,edited/lightpdf/fpdf2.pdf,19445,%PDF-1.3,1,no,no,,yes,yes,yes,/APDE_,Arimo-Regular,17e13b7de526e3d3ef9622644b7bbf06ca9209e082bb9989c4b5a37c5de9ba26
+lightpdf,invoice,yes,edited/lightpdf/invoice.pdf,28725,%PDF-1.3,1,no,no,macOS Версія 15.1 (збірка 24B2082) Quartz PDFContext,yes,yes,yes,/APDE_,,b4629354472b27fc7a976cd956cb3d8c9eeb21267b091081350853b924a96469
+lightpdf,mpdf,yes,edited/lightpdf/mpdf.pdf,41988,%PDF-1.4,1,no,no,mPDF 8.3.1,yes,yes,yes,/APDE_,,a6f1bcc8a364b2000e65907c94df12f09d6d70108d50279f66d96b7bfdbf7741
+lightpdf,real-apple,no,,161488,%PDF-1.7,1,no,no,,yes,yes,yes,/APDE_,,
+lightpdf,tcpdf,yes,edited/lightpdf/tcpdf.pdf,102592,%PDF-1.7,1,no,no,TCPDF 6.11.4 (http://www.tcpdf.org),yes,yes,yes,/APDE_,,b0a5e4225dfbc29879b9e137797a7d77a4c335ff98f9cafefaf8219f3304d212
+lightpdf,weasy,yes,edited/lightpdf/weasy.pdf,63775,%PDF-1.7,1,no,no,WeasyPrint 70.0,yes,yes,yes,/APDE_,,b80450ff26b05183b1ffb03a29bb350636bc3cb24ed0b13b248d649dbce5c85f
+lumin,fpdf2,yes,edited/lumin/fpdf2.pdf,5641,%PDF-1.7,1,no,no,,yes,yes,yes,/IceniCID,,e387f9bca4b115e439ccd1999cfa6dd8677d8688cb8c64d08a02b2f3e75b3bf3
+pdf-candy,fpdf2,yes,edited/pdf-candy/fpdf2.pdf,458886,%PDF-1.7,1,no,no,PDF Candy,no,no,no,,NotoSans-1848 NotoSans-Bold-7888,9dd5e37a573aba6e9281036a90242fba7cc14a284b008fa95958a35ac0df7281
+pdf-candy,invoice,yes,edited/pdf-candy/invoice.pdf,39003,%PDF-1.7,1,no,no,PDF Candy,no,no,no,,HelveticaNeue-979 HelveticaNeue-Bold-2708,c321f53d5ad26dc635cc2d355b8f6b86f1925b687f95be188c52010b391db1e1
+pdf-candy,mpdf,yes,edited/pdf-candy/mpdf.pdf,306057,%PDF-1.7,1,no,no,PDF Candy,no,no,no,,DejaVuSans-Bold-1848 NotoSans-7888,3cbfcbb49c9c9e8dee510d578163f65b48c05afc2bdd1eb75aef89fb7a953ed4
+pdf-candy,real-apple,no,,720105,%PDF-1.7,1,no,no,,no,no,no,,,
+pdf-candy,real-stripe,no,,52782,%PDF-1.7,1,no,no,,no,no,no,,,
+pdf-candy,receipt,yes,edited/pdf-candy/receipt.pdf,47036,%PDF-1.7,1,no,no,PDF Candy,no,no,no,,Helvetica-5824 Helvetica-Bold-8659,2fa7d69b07b7c5dc235bdfd1e93e616d6d67ec84ea551696ce1c81c640f3379d
+pdf-candy,statement,yes,edited/pdf-candy/statement.pdf,87080,%PDF-1.7,1,no,no,PDF Candy,no,no,no,,Arial-BoldMT-1848 ArialMT-7888,8926a7814a8104440727c0190a8439fc9d565141f804158f81c2aed266572573
+pdf-candy,tcpdf,yes,edited/pdf-candy/tcpdf.pdf,555415,%PDF-1.7,1,no,no,PDF Candy,no,no,no,,NotoSans-2708 NotoSans-Bold-979,b7d1395889fd35fcee87a1dcee04a9b27cc67b96d7eda504b65e2b569b1660de
+pdf-candy,weasy,yes,edited/pdf-candy/weasy.pdf,50004,%PDF-1.7,1,no,no,PDF Candy,no,no,no,,Helvetica-Bold-8450,3e9adf25e6f87c33f1d5486b66198ab44e969b21194925156784a3fd68e85169
+pdf2go,fpdf2,yes,edited/pdf2go/fpdf2.pdf,15635,%PDF-1.7,1,no,yes,pdf-lib (https://github.com/Hopding/pdf-lib),no,yes,no,EmbeddedPdfPage,Courier Courier-Bold Courier-BoldOblique Courier-Oblique Helvetica-BoldOblique Helvetica-Oblique Inter Symbol Times-Bold Times-BoldItalic Times-Italic Times-Roman ZapfDingbats,336593d569831ea23427850d4bd480d2df388b4a1b011965a170cefe27bf4bba
+pdf2go,invoice,yes,edited/pdf2go/invoice.pdf,37869,%PDF-1.7,1,no,yes,pdf-lib (https://github.com/Hopding/pdf-lib),no,yes,no,EmbeddedPdfPage,Courier Courier-Bold Courier-BoldOblique Courier-Oblique Helvetica Helvetica-Bold Helvetica-BoldOblique Helvetica-Oblique Inter Symbol Times-Bold Times-BoldItalic Times-Italic Times-Roman ZapfDingbats,222879b74a2c956c015a95fffcc55a368ec2c9af4b915f63c7dce4f6173c58f7
+pdf2go,mpdf,yes,edited/pdf2go/mpdf.pdf,55499,%PDF-1.7,1,no,yes,pdf-lib (https://github.com/Hopding/pdf-lib),no,yes,no,EmbeddedPdfPage,Courier Courier-Bold Courier-BoldOblique Courier-Oblique Helvetica Helvetica-Bold Helvetica-BoldOblique Helvetica-Oblique Inter Symbol Times-Bold Times-BoldItalic Times-Italic Times-Roman ZapfDingbats,9562e8e33b49b350574d4b1d3d7d24f14bcb3eaf3dfb459deb9d26f75c4ba8dc
+pdf2go,real-apple,no,,155713,%PDF-1.7,1,no,yes,,no,yes,no,EmbeddedPdfPage,,
+pdf2go,real-stripe,no,,41266,%PDF-1.7,1,no,yes,,no,yes,no,EmbeddedPdfPage,,
+pdf2go,receipt,yes,edited/pdf2go/receipt.pdf,51379,%PDF-1.7,1,no,yes,pdf-lib (https://github.com/Hopding/pdf-lib),no,yes,no,EmbeddedPdfPage,Courier Courier-Bold Courier-BoldOblique Courier-Oblique Helvetica-BoldOblique Helvetica-Oblique Inter Symbol Times-Bold Times-BoldItalic Times-Italic Times-Roman ZapfDingbats,a6ce856f8959711224a769c39761cb79c1fa99736ec57bccc5b1047ba7d33956
+pdf2go,statement,yes,edited/pdf2go/statement.pdf,75695,%PDF-1.7,1,no,yes,pdf-lib (https://github.com/Hopding/pdf-lib),no,yes,no,EmbeddedPdfPage,Courier Courier-Bold Courier-BoldOblique Courier-Oblique Helvetica-Bold Helvetica-BoldOblique Helvetica-Oblique Inter Symbol Times-Bold Times-BoldItalic Times-Italic Times-Roman ZapfDingbats,7e23dc597acf690dc81272f92bb297a310cc0c1dd3553822f4e8788fdac97b0f
+pdf2go,tcpdf,yes,edited/pdf2go/tcpdf.pdf,115991,%PDF-1.7,1,no,yes,pdf-lib (https://github.com/Hopding/pdf-lib),no,yes,no,EmbeddedPdfPage,Courier Courier-Bold Courier-BoldOblique Courier-Oblique Helvetica-Bold Helvetica-BoldOblique Helvetica-Oblique Inter Symbol Times-Bold Times-BoldItalic Times-Italic Times-Roman ZapfDingbats,c5220170aa38204615c98cf91f798e68870545f7e3272662fddeecc182776c72
+pdf2go,weasy,yes,edited/pdf2go/weasy.pdf,58835,%PDF-1.7,1,no,yes,pdf-lib (https://github.com/Hopding/pdf-lib),no,no,no,EmbeddedPdfPage,Courier Courier-Bold Courier-BoldOblique Courier-Oblique Helvetica-BoldOblique Helvetica-Oblique Inter Symbol Times-Bold Times-BoldItalic Times-Italic Times-Roman ZapfDingbats,983ddbd6978266f11cc0f0b4e8085c1748ea7dab80676be244174fd9b3a8311a
+pdfbear,fpdf2,yes,edited/pdfbear/fpdf2.pdf,447275,%PDF-1.3,1,no,no,,yes,yes,yes,,Liberation Sans Bold Liberation Sans Regular,371bb9fe5b6ebcce38daeffd16f4c64b3555aaa9473d31c4c315752b690e9089
+pdfbear,invoice,yes,edited/pdfbear/invoice.pdf,47521,%PDF-1.4,1,no,no,macOS Версія 15.1 (збірка 24B2082) Quartz PDFContext,yes,yes,yes,,(null) Helvetica,27c884aac924b610cbe95a9a7f1fe754515ee9b357530b9982874f01e5f42962
+pdfbear,mpdf,yes,edited/pdfbear/mpdf.pdf,83693,%PDF-1.4,1,no,no,mPDF 8.3.1,yes,yes,yes,,DejaVu Sans Bold DejaVu Sans Book Helvetica,25764c45fe254ab4ae2269bae9eee6b9d4576d64fc714be81df930523bdfa7da
+pdfbear,real-apple,no,,243380,%PDF-1.7,1,no,no,,yes,yes,yes,,,
+pdfbear,real-stripe,no,,262032,%PDF-1.4,1,no,no,,yes,yes,yes,,,
+pdfbear,receipt,yes,edited/pdfbear/receipt.pdf,280004,%PDF-1.4,1,no,no,Skia/PDF m157,yes,yes,yes,,Liberation Sans Bold Regular,64d3bc0092081588ce6e8b714660d9c8696ece96551433f9fc1e6afd30cea3cc
+pdfbear,statement,yes,edited/pdfbear/statement.pdf,509450,%PDF-1.3,1,no,no,NCU eStatements 4.2,yes,yes,yes,,Liberation Sans Bold Liberation Sans Regular,942a768fca032ac4e6bc8724ced40f846aab34fc0242520561af14fbc08de8a3
+pdfbear,tcpdf,yes,edited/pdfbear/tcpdf.pdf,548496,%PDF-1.7,1,no,no,TCPDF 6.11.4 (http://www.tcpdf.org),yes,yes,yes,,Liberation Sans Bold Liberation Sans Regular,c822409afccb20091baa4e05eb07f50595640981c9fd229bb5cbf62530262695
+pdfbear,weasy,yes,edited/pdfbear/weasy.pdf,270223,%PDF-1.7,1,no,no,WeasyPrint 70.0,yes,yes,yes,,Liberation Sans Bold,349c87366d2236552440ee862d61b818371cf83bc7f80cfed86916a1d02caa6c
+pdfescape,fpdf2,yes,edited/pdfescape/fpdf2.pdf,2082,%PDF-2.0,1,no,no,,yes,yes,yes,,,3455c0fc0b5cb5f6c7d795b12b7d371a3bac66d525ad2ab53b63291b076d79f5
+pdfescape,invoice,yes,edited/pdfescape/invoice.pdf,34635,%PDF-2.0,1,no,no,macOS Версія 15.1 (збірка 24B2082) Quartz PDFContext,yes,yes,yes,,Arimo-Bold Arimo-Regular,48f955883acc55f6df8668dd73253511963602bccd55d115fb1ffc7d129d9ef0
+pdfescape,mpdf,yes,edited/pdfescape/mpdf.pdf,48385,%PDF-2.0,1,no,no,mPDF 8.3.1,yes,yes,yes,,Arimo-Bold Arimo-Regular,1be376e1e47c0bdfa94bd4a1417c5c0578ddc07e80d63c4d308cdd2c6d36d73d
+pdfescape,real-apple,no,,149900,%PDF-2.0,1,no,no,,yes,yes,yes,,,
+pdfescape,real-stripe,no,,32343,%PDF-2.0,1,no,no,,yes,yes,yes,,,
+pdfescape,receipt,yes,edited/pdfescape/receipt.pdf,44887,%PDF-2.0,1,no,no,Skia/PDF m157,yes,yes,yes,,Arimo-Bold,6365df0bf3979ce199337239f00375cd9b11ad8f35ac80cc05647ba1243ce157
+pdfescape,statement,yes,edited/pdfescape/statement.pdf,69031,%PDF-2.0,1,no,no,NCU eStatements 4.2,yes,yes,yes,,Arimo-Bold Arimo-Regular,03a22c5da3a9b73ce2b8ef404deef63d4d2546923e55e12becfb8095650d4549
+pdfescape,tcpdf,yes,edited/pdfescape/tcpdf.pdf,109754,%PDF-2.0,1,no,no,TCPDF 6.11.4 (http://www.tcpdf.org),yes,yes,yes,,Arimo-Bold Arimo-Regular,0ddd24df8d7ec47f750471862d4aed745870af818805e7d2301f9f708064a653
+pdfescape,weasy,yes,edited/pdfescape/weasy.pdf,44836,%PDF-2.0,1,no,no,WeasyPrint 70.0,yes,yes,yes,,,54e2e44d27ed997c7195d1ec940cf0751c39f8dbcddd27144f54f8bd184535aa
+pdffiller,fpdf2,yes,edited/pdffiller/fpdf2.pdf,6000,%PDF-1.7,1,no,no,airSlate inc. Mellivora 3.27,no,no,no,,Arimo-Bold,f3dbaf9949747ade9e05181eebb341f9c18a14ab0bd329658ec4f304710cb101
+pdffiller,invoice,yes,edited/pdffiller/invoice.pdf,38920,%PDF-1.7,1,no,no,airSlate inc. Mellivora 3.27,no,no,no,,Almarai-Regular ArialUnicodeMS,507143ac31220c16d43d8486f68f59f3757b900e195ccc2c067ecb760745425a
+pdffiller,mpdf,yes,edited/pdffiller/mpdf.pdf,35712,%PDF-1.7,1,no,no,airSlate inc. Mellivora 3.27,no,no,no,,,3e0803ec06a9ed4c7ac07910bdd2e1f3cbe3b34e97613e304dca23af3d8fd9f5
+pdffiller,real-apple,no,,51919,%PDF-1.7,1,no,no,,no,no,no,,,
+pdffiller,real-stripe,no,,30979,%PDF-1.7,1,no,no,,no,no,no,,,
+pdffiller,receipt,yes,edited/pdffiller/receipt.pdf,38839,%PDF-1.7,1,no,no,airSlate inc. Mellivora 3.27,no,no,no,,Arimo-Bold Arimo-Regular,ff818fef3ea6234a51c6bb7897cf6cd8df2e3a46a6b14a43f0620d386318bbb8
+pdffiller,statement,yes,edited/pdffiller/statement.pdf,70184,%PDF-1.7,1,no,no,airSlate inc. Mellivora 3.27,no,no,no,,,1af2aa30d4cc3362e30ed0c5add4edc96ceeb41c6a3eb04d37ee62ac25dad58a
+pdffiller,tcpdf,yes,edited/pdffiller/tcpdf.pdf,34974,%PDF-1.7,1,no,no,airSlate inc. Mellivora 3.27,no,no,no,,,dcfe90e891cbc5d0c058bd9ec23f51146ac39fa4edfd6fccf0e80119f955154d
+pdffiller,weasy,yes,edited/pdffiller/weasy.pdf,14485,%PDF-1.7,1,no,no,airSlate inc. Mellivora 3.27,no,no,no,,Arimo-Bold,02c3459c58cbaabfaf1a828a134e13d7a92a00b49701b61fdbf3ad3b9cdb9d45
+sejda,fpdf2,yes,edited/sejda/fpdf2.pdf,2587,%PDF-1.5,1,no,no,3.0.39 (5.1.26),no,yes,no,,,686495ad500cd283354ac312c80cfa3b050dde4c013cefd5d430a608a07e1dc5
+sejda,invoice,yes,edited/sejda/invoice.pdf,23575,%PDF-1.5,1,no,no,3.0.39 (5.1.26),no,yes,no,,,21a25c5ad0a341d9c8d3aaa2fdb7b426283b8aff94dca41b23ec219cce32fc10
+sejda,mpdf,yes,edited/sejda/mpdf.pdf,49808,%PDF-1.5,1,no,no,3.0.39 (5.1.26),no,yes,no,,,3d8b76fb3589e3645729e49b3298eaf6aad76d9dc5a140a9922d88e7d181a9d1
+sejda,real-apple,no,,143955,%PDF-1.7,1,no,no,,no,yes,no,,,
+sejda,real-stripe,no,,33840,%PDF-1.5,1,no,no,,no,yes,no,,,
+sejda,receipt,yes,edited/sejda/receipt.pdf,38038,%PDF-1.5,1,no,no,3.0.39 (5.1.26),no,yes,no,,,f04fbbe87a78719faae68dc796e5cb4eed6026b4f7d231bb5eeffefd1f3b8331
+sejda,statement,yes,edited/sejda/statement.pdf,71153,%PDF-1.5,1,no,no,3.0.39 (5.1.26),no,yes,no,,LiberationSans LiberationSans-Bold,eb8af2beef412c912d973aa06c919147233d66b47db376f21647aed065130e94
+sejda,tcpdf,yes,edited/sejda/tcpdf.pdf,106849,%PDF-1.7,1,no,no,3.0.39 (5.1.26),no,yes,no,,,41b8cb0392400fd5e1ca2c17b15da7a53ac0a4e216335bd49f1f44dd84cf5341
+sejda,weasy,yes,edited/sejda/weasy.pdf,46118,%PDF-1.7,1,no,no,3.0.39 (5.1.26),no,yes,no,,,057225b49c136f91b4aca14414777bbc8e129c977baa59124cddcbb57bdd644d
+smallpdf,fpdf2,yes,edited/smallpdf/fpdf2.pdf,4951,%PDF-1.7,1,no,no,,yes,yes,yes,/IceniCID,,74b0cce4c18dd4321c6c8b2dc893fb1fd41bd49fcfa0e2515995688ec82b1f25
+smallpdf,invoice,yes,edited/smallpdf/invoice.pdf,27777,%PDF-1.7,1,no,no,macOS Версія 15.1 (збірка 24B2082) Quartz PDFContext,yes,yes,yes,/IceniCID,,9e4d4706f4eb55817d740671be43554a989ced2e90729e87d7dce64aa36ff0f5
+smallpdf,mpdf,yes,edited/smallpdf/mpdf.pdf,48226,%PDF-1.7,1,no,no,mPDF 8.3.1,yes,yes,yes,/IceniCID,,0467f4830fdc65f584cb7a9f3333b7c52fc4ad3fd93380ab02257a6c8ae61b6a
+smallpdf,real-apple,no,,151324,%PDF-1.7,1,no,no,,yes,yes,yes,/IceniCID,,
+smallpdf,real-stripe,no,,34142,%PDF-1.7,1,no,no,,yes,yes,yes,/IceniCID,,
+smallpdf,receipt,yes,edited/smallpdf/receipt.pdf,54088,%PDF-1.7,1,no,no,Skia/PDF m157,yes,yes,yes,/IceniCID,,c9844c2270c11637ca82167dadd563ef83545dd8982ff76c20d80983a880a4a7
+smallpdf,statement,yes,edited/smallpdf/statement.pdf,67324,%PDF-1.7,1,no,no,NCU eStatements 4.2,yes,yes,yes,/IceniCID,,cef31cc3d17a079bd4c07ea1cc6b45659fc15bb92eb87711864617d39431244f
+smallpdf,tcpdf,yes,edited/smallpdf/tcpdf.pdf,105845,%PDF-1.7,1,no,no,TCPDF 6.11.4 (http://www.tcpdf.org),yes,yes,yes,/IceniCID,,b8f0ba94035a358d582ad992e0d9b6735066ab5334e1826fba2f971b746f9340
+smallpdf,weasy,yes,edited/smallpdf/weasy.pdf,47551,%PDF-1.7,1,no,no,WeasyPrint 70.0,yes,yes,yes,/IceniCID,Arimo Bold,5d2fe96d804292ac67a75188936b5e65b6280a86b645b3e468120d4cc6af983b
+tinywow,fpdf2,yes,edited/tinywow/fpdf2.pdf,10776,%PDF-1.7,1,no,no,TCPDF 6.6.5 (http://www.tcpdf.org),no,no,no,,,4c9686205678169064b7feba12cbf0ee60ccd0c1062d1788edb699974765c37d
+tinywow,invoice,yes,edited/tinywow/invoice.pdf,46514,%PDF-1.7,1,no,no,TCPDF 6.6.5 (http://www.tcpdf.org),no,no,no,,Helvetica,f9a585db043f36553e867b6d7deacb062732c9247f1b37038d057388392adf75
+tinywow,mpdf,yes,edited/tinywow/mpdf.pdf,699769,%PDF-1.7,1,no,no,TCPDF 6.6.5 (http://www.tcpdf.org),no,no,no,,Helvetica OpenSans-Regular,641d118490ddb78e8443c8fdabfa3a06efa6001517883ff6ca8a10e4cfa163f6
+tinywow,real-apple,no,,825553,%PDF-1.7,1,no,no,,no,no,no,,,
+tinywow,real-stripe,no,,1421190,%PDF-1.7,1,no,yes,,no,no,no,,,
+tinywow,receipt,yes,edited/tinywow/receipt.pdf,71635,%PDF-1.7,1,no,yes,TCPDF 6.6.5 (http://www.tcpdf.org),no,no,no,,,3f59bf9b57c9fd9f54468b03f7297312ce51ca04cd50bd75c18264917e4f2bd8
+tinywow,statement,yes,edited/tinywow/statement.pdf,426495,%PDF-1.7,1,no,yes,TCPDF 6.6.5 (http://www.tcpdf.org),no,no,no,,OpenSans-Regular,1a4bf16e3054e894eedbf55652db98f6c13c8ce69f98aab5d1278b0cf8cc0b7a
+tinywow,tcpdf,yes,edited/tinywow/tcpdf.pdf,725933,%PDF-1.7,1,no,no,TCPDF 6.6.5 (http://www.tcpdf.org),no,no,no,,OpenSans-Regular,eecdfad128b7faae1938efb819ee6622b8ff71dd57d2db0b7bd982ae5a593fc1
+tinywow,weasy,yes,edited/tinywow/weasy.pdf,24030,%PDF-1.7,1,no,no,TCPDF 6.6.5 (http://www.tcpdf.org),no,no,no,,,006c369f75a4fa2a0b266daa574a6bfda6664a4fe2b188b201b3641d7b039fa8
+word,fpdf2,yes,edited/word/fpdf2.pdf,146113,%PDF-1.7,2,no,no,Microsoft® Word для Microsoft 365,no,no,no,,Arial-BoldMT ArialMT Calibri,bab4baa0a2392c134fa5b56b98e454ee944f3d25ebe1d78294b27bf6cd4a4ff2
+word,invoice,yes,edited/word/invoice.pdf,83012,%PDF-1.7,2,no,no,Microsoft® Word для Microsoft 365,no,no,no,,Arial-BoldMT ArialMT,ff6715f0b2a11fdf6c5cc94de1a7a91fbfcb0202629f44922a03f1f35f30e62c
+word,mpdf,yes,edited/word/mpdf.pdf,204291,%PDF-1.7,2,no,no,Microsoft® Word для Microsoft 365,no,no,no,,Calibri Calibri-Bold,5f722ef8871239508b770cd78528f89045d92144d9e0b8129dafa72c618d09ed
+word,real-apple,no,,160002,%PDF-1.7,2,no,no,,no,no,no,,,
+word,real-stripe,no,,239483,%PDF-1.7,2,no,no,,no,no,no,,,
+word,receipt,yes,edited/word/receipt.pdf,151891,%PDF-1.7,2,no,no,Microsoft® Word для Microsoft 365,no,no,no,,Arial-BoldMT ArialMT Calibri,0b2b49550d4014afcff1b27c2c8977634c8e65f35e3763984d51f416acb6ae60
+word,statement,yes,edited/word/statement.pdf,149519,%PDF-1.7,2,no,no,Microsoft® Word для Microsoft 365,no,no,no,,Calibri,97dd08d72ac55c2fe22f0d20e4e93ae3f79be7d44adc3e71aa406e1b6e435c4c
+word,tcpdf,yes,edited/word/tcpdf.pdf,239325,%PDF-1.7,2,no,no,Microsoft® Word для Microsoft 365,no,no,no,,ArialMT Calibri Calibri-Bold,0e3f4eaff55b7a1a76facca9dcb053ea2bf830e17198571644b33b5cb14c16e6
+word,weasy,yes,edited/word/weasy.pdf,139794,%PDF-1.7,2,no,no,Microsoft® Word для Microsoft 365,no,no,no,,Arial-BoldMT ArialMT Calibri,c80790da9b8cfa69315ff4f4da6ad7089f5df030d2673ce7b320edb56e0fb1f7
+xodo,fpdf2,yes,edited/xodo/fpdf2.pdf,4891,%PDF-1.7,1,no,no,,yes,yes,yes,/IceniCID,,2c267055821b8cadb902698815582e16acd60138c4160a3e7b896da5bac8f376
+xodo,invoice,yes,edited/xodo/invoice.pdf,27799,%PDF-1.7,1,no,no,macOS Версія 15.1 (збірка 24B2082) Quartz PDFContext,yes,yes,yes,/IceniCID,,39c0792a46f395bd584c4784f777be9c1bad40eb8f5b0fa5eaf3a9e47685eb25
+xodo,mpdf,yes,edited/xodo/mpdf.pdf,48325,%PDF-1.7,1,no,no,mPDF 8.3.1,yes,yes,yes,/IceniCID,,3240e9ae8651d4e84cf04e4a5ccdd8d404334b017e10f1b11a5f1f9571b1b849
+xodo,real-apple,no,,150309,%PDF-1.7,1,no,no,,yes,yes,yes,/IceniCID,,
+xodo,real-stripe,no,,33048,%PDF-1.7,1,no,no,,yes,yes,yes,/IceniCID,,
+xodo,receipt,yes,edited/xodo/receipt.pdf,51449,%PDF-1.7,1,no,no,Skia/PDF m157,yes,yes,yes,/IceniCID,Arimo Bold,b26779c740baa923caf3a1d1dec271c5527eade872dc8a1e6de5b7bb6fb221a1
+xodo,statement,yes,edited/xodo/statement.pdf,67406,%PDF-1.7,1,no,no,NCU eStatements 4.2,yes,yes,yes,/IceniCID,,15ce7409f567d005f30b96799b6016a720f4fefe10b4ba6ddecab9faf22f8143
+xodo,tcpdf,yes,edited/xodo/tcpdf.pdf,105908,%PDF-1.7,1,no,no,TCPDF 6.11.4 (http://www.tcpdf.org),yes,yes,yes,/IceniCID,,b6552bd16e614be2b8b523744bff58bdb85255604da6213457020243b2f7bda7
+xodo,weasy,yes,edited/xodo/weasy.pdf,46607,%PDF-1.7,1,no,no,WeasyPrint 70.0,yes,yes,yes,/IceniCID,,56ace7a0c85e16c49597a757dd3a2f06a772246303ee238fff060c0e1595dfb0

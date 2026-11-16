@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it and link to the write-up."
+title: "PDF Editor Traces: one edited figure, 18 PDF editors"
+type: dataset
+version: 1.0.0
+date-released: 2026-11-16
+authors:
+  - name: Atomara
+    website: https://atomara.io
+url: https://atomara.io/blog/pdf-editor-traces
+repository-code: https://github.com/atomara-io/pdf-editor-traces
+license: CC-BY-4.0
+keywords:
+  - pdf
+  - document forensics
+  - pdf editing
+  - tamper detection
+abstract: >-
+  Seven synthetic documents, each edited by hand in 17 online PDF editors and
+  desktop Word: 109 edited files, with a per-file record of what the editor
+  changed besides the figure (revisions, metadata, content-stream marks, fonts,
+  and whether the old figure is still in the file).
