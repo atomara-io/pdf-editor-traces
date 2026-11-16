@@ -66,6 +66,8 @@ Notes:
 - Word's files end with two `%%EOF` markers, but the first part holds the same text as the whole file: it is how Word writes a PDF, not an earlier version of the document.
 - "Old amount in text layer" means the original figure can still be extracted from the page although the page shows the new one (the editor drew over it).
 - HiPDF and Lumin have one file each.
+- In the files with `/IceniCID`, the general Iceni tagging (`/IceniObject`) wraps the whole page (29 to 84 objects per file) and shows only that the file went through the editor. The `/IceniCID <</CI 1>>` runs sit only where figures were edited, two to four per file.
+- More than one `%%EOF` does not by itself mean an edit; check that the earlier part holds different content.
 
 ## Run it
 
