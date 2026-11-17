@@ -99,6 +99,6 @@ One week, free tiers, a browser on macOS, edits made by hand. Online editors cha
 
 ## How to cite
 
-> Atomara (2026). *PDF Editor Traces: one edited figure, 18 PDF editors* (version 1.0.0) [Data set]. https://atomara.io/blog/pdf-editor-traces
+> Haiduchyk, B. (Atomara) (2026). *PDF Editor Traces: one edited figure, 18 PDF editors* (version 1.0.0) [Data set]. https://atomara.io/blog/pdf-editor-traces
 
 See also [`CITATION.cff`](CITATION.cff).

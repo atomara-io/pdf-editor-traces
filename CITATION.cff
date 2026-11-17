@@ -5,7 +5,9 @@ type: dataset
 version: 1.0.0
 date-released: 2026-11-16
 authors:
-  - name: Atomara
+  - family-names: Haiduchyk
+    given-names: Borys
+    affiliation: Atomara
     website: https://atomara.io
 url: https://atomara.io/blog/pdf-editor-traces
 repository-code: https://github.com/atomara-io/pdf-editor-traces
