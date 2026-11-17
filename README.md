@@ -1,5 +1,7 @@
 # PDF Editor Traces
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24315588.svg)](https://doi.org/10.5281/zenodo.24315588)
+
 What a PDF editor leaves in a file after one number is changed.
 
 Seven synthetic documents, the same kind of edit in each of 18 tools (17 online editors and desktop Word), 109 edited files, and a per-file record of what changed besides the number. Collected by hand between 11 and 16 November 2026.
@@ -99,6 +101,6 @@ One week, free tiers, a browser on macOS, edits made by hand. Online editors cha
 
 ## How to cite
 
-> Haiduchyk, B. (Atomara) (2026). *PDF Editor Traces: one edited figure, 18 PDF editors* (version 1.0.0) [Data set]. https://atomara.io/blog/pdf-editor-traces
+> Haiduchyk, B. (Atomara) (2026). *PDF Editor Traces: one edited figure, 18 PDF editors* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24315588
 
 See also [`CITATION.cff`](CITATION.cff).
